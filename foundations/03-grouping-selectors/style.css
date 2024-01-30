@@ -1,0 +1,17 @@
+.btnOne, .btnTwo {
+    border: solid rgb(90, 90, 90) 3px;
+    font-size: 50px;
+    font-family: sans-serif;
+    padding: 5px 10px;
+    margin: 0 2px;
+}
+
+.btnOne {
+    color: white;
+    background-color: black;
+}
+
+.btnTwo {
+    color: black;
+    background-color: yellow;
+}
